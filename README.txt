@@ -1,3 +1,9 @@
+Package content:
+1) C version of DIRECT algorithm
+2) Python version of DIRECT algorithm (provided by Alberto ULIANA as part of his Bachelor's thesis in Computer Science Engineering)
+   To learn how to use the Python version of DIRECT, please refer to the README.md file in the PYTHON_version folder
+3) a Julia interface to the C version
+
 -----------------------------------------------------------
  How to use the derivative-free optimizer DIRECT for 
  bound constrained optimization problems
