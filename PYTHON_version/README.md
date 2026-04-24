@@ -93,4 +93,4 @@ python -m pytest tests/ -v
 Jones, D. R., Perttunen, C. D., & Stuckman, B. E. (1993). *Lipschitzian optimization without the Lipschitz constant*. Journal of Optimization Theory and Applications, 79(1), 157–181.
 
 ---
-*Developed as part of a Bachelor's Thesis in Computer Engineering.*
+*Developed as part of a Bachelor's Thesis in Computer Engineering (by Alberto ULIANA).*
